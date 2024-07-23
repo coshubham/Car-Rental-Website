@@ -2,7 +2,7 @@ Project:- CarRental Website.
 
 Admin Information:
 Username:- admin.
-Password:- shubham1612.
+Password:- Test@12345.
 
 XAMPP control Panel is used For this Project and Databases.
 
